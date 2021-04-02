@@ -1,8 +1,8 @@
 # CICD_Skaffold
 
 ## CI/CD
-
 - Skaffold + Kubernetes
+- GitHub Actions
 - Jest
 
 ## サーバーサイド
